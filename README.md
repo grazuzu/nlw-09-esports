@@ -1,7 +1,7 @@
 # nlw-09-esports
 > Trilha Explorer
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 Project developed in the NLW E-sports of Rocketrseat!
 
